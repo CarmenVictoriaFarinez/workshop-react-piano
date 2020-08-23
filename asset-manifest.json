@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/workshop-react-piano/static/css/main.612fbc9d.chunk.css",
+    "main.js": "/workshop-react-piano/static/js/main.adabb5e9.chunk.js",
+    "main.js.map": "/workshop-react-piano/static/js/main.adabb5e9.chunk.js.map",
+    "runtime-main.js": "/workshop-react-piano/static/js/runtime-main.47649b2f.js",
+    "runtime-main.js.map": "/workshop-react-piano/static/js/runtime-main.47649b2f.js.map",
+    "static/js/2.be42e844.chunk.js": "/workshop-react-piano/static/js/2.be42e844.chunk.js",
+    "static/js/2.be42e844.chunk.js.map": "/workshop-react-piano/static/js/2.be42e844.chunk.js.map",
+    "index.html": "/workshop-react-piano/index.html",
+    "precache-manifest.95d587ad7d111729b20493148b7a33ac.js": "/workshop-react-piano/precache-manifest.95d587ad7d111729b20493148b7a33ac.js",
+    "service-worker.js": "/workshop-react-piano/service-worker.js",
+    "static/css/main.612fbc9d.chunk.css.map": "/workshop-react-piano/static/css/main.612fbc9d.chunk.css.map",
+    "static/js/2.be42e844.chunk.js.LICENSE.txt": "/workshop-react-piano/static/js/2.be42e844.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/workshop-react-piano/static/media/do.18fd3f6f.wav",
+    "static/media/fa.wav": "/workshop-react-piano/static/media/fa.a787534a.wav",
+    "static/media/la.wav": "/workshop-react-piano/static/media/la.10af03f3.wav",
+    "static/media/mi.wav": "/workshop-react-piano/static/media/mi.1f26c778.wav",
+    "static/media/re.wav": "/workshop-react-piano/static/media/re.217b943a.wav",
+    "static/media/si.wav": "/workshop-react-piano/static/media/si.70924435.wav",
+    "static/media/sol.wav": "/workshop-react-piano/static/media/sol.785a33d2.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47649b2f.js",
+    "static/js/2.be42e844.chunk.js",
+    "static/css/main.612fbc9d.chunk.css",
+    "static/js/main.adabb5e9.chunk.js"
+  ]
+}
